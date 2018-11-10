@@ -1,2 +1,2 @@
 # wx
-wxのpoject
+wx de poject
